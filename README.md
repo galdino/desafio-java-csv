@@ -2,7 +2,7 @@
 
 Aplicação Spring Boot para processar arquivos CSV.
 
-Para executar aplicação, baixar o .jar(desafio-java-csv-0.0.1-SNAPSHOT.jar) e o CSV exemplo(contas.csv) em (../desafio-java-csv/target):
+Para executar aplicação, baixar o .jar(desafio-java-csv-0.0.1-SNAPSHOT.jar) e o CSV exemplo(contas.csv) em (../desafio-java-csv/exemplo):
 Com estes dois arquivos em um mesmo diretório, executar:
 ```
 java -jar desafio-java-csv-0.0.1-SNAPSHOT.jar contas.csv 
